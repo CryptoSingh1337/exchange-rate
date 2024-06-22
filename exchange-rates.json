@@ -1,6 +1,6 @@
 {
   "baseCurrency": "INR",
-  "lastUpdated": "2024-06-22T12:25:39.619Z",
+  "lastUpdated": "2024-06-22T12:34:44.510Z",
   "date": "2024-06-22",
   "rates": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "currency": "GBP",
-      "value": 105.72
+      "value": 105.68
     },
     {
       "currency": "JPY",
