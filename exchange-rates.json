@@ -1,19 +1,19 @@
 {
   "baseCurrency": "INR",
-  "lastUpdated": "2024-06-23T12:14:30.188Z",
-  "date": "2024-06-23",
+  "lastUpdated": "2024-06-24T12:15:58.987Z",
+  "date": "2024-06-24",
   "rates": [
     {
       "currency": "USD",
-      "value": 83.56
+      "value": 83.49
     },
     {
       "currency": "EUR",
-      "value": 89.35
+      "value": 89.58
     },
     {
       "currency": "GBP",
-      "value": 105.74
+      "value": 105.72
     },
     {
       "currency": "JPY",
@@ -21,43 +21,43 @@
     },
     {
       "currency": "AUD",
-      "value": 55.73
+      "value": 55.44
     },
     {
       "currency": "CAD",
-      "value": 61
+      "value": 61.01
     },
     {
       "currency": "CHF",
-      "value": 93.52
+      "value": 93.44
     },
     {
       "currency": "CNY",
-      "value": 11.51
+      "value": 11.5
     },
     {
       "currency": "SEK",
-      "value": 7.95
+      "value": 7.96
     },
     {
       "currency": "NZD",
-      "value": 51.13
+      "value": 51.07
     },
     {
       "currency": "MXN",
-      "value": 4.61
+      "value": 4.62
     },
     {
       "currency": "SGD",
-      "value": 61.66
+      "value": 61.7
     },
     {
       "currency": "HKD",
-      "value": 10.71
+      "value": 10.69
     },
     {
       "currency": "NOK",
-      "value": 7.92
+      "value": 7.89
     },
     {
       "currency": "KRW",
@@ -65,7 +65,7 @@
     },
     {
       "currency": "TRY",
-      "value": 2.55
+      "value": 2.54
     },
     {
       "currency": "RUB",
