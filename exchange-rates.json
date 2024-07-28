@@ -1,7 +1,7 @@
 {
   "baseCurrency": "INR",
-  "lastUpdated": "2024-07-27T12:16:24.449Z",
-  "date": "2024-07-27",
+  "lastUpdated": "2024-07-28T12:14:25.685Z",
+  "date": "2024-07-28",
   "rates": [
     {
       "currency": "USD",
@@ -69,7 +69,7 @@
     },
     {
       "currency": "RUB",
-      "value": 0.98
+      "value": 0.97
     }
   ]
 }
