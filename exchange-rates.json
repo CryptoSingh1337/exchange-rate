@@ -1,15 +1,15 @@
 {
   "baseCurrency": "INR",
-  "lastUpdated": "2024-08-27T12:16:36.758Z",
-  "date": "2024-08-27",
+  "lastUpdated": "2024-08-28T12:17:51.299Z",
+  "date": "2024-08-28",
   "rates": [
     {
       "currency": "USD",
-      "value": 83.92
+      "value": 83.97
     },
     {
       "currency": "EUR",
-      "value": 93.65
+      "value": 93.33
     },
     {
       "currency": "GBP",
@@ -21,15 +21,15 @@
     },
     {
       "currency": "AUD",
-      "value": 56.9
+      "value": 56.88
     },
     {
       "currency": "CAD",
-      "value": 62.29
+      "value": 62.3
     },
     {
       "currency": "CHF",
-      "value": 99.22
+      "value": 99.53
     },
     {
       "currency": "CNY",
@@ -41,15 +41,15 @@
     },
     {
       "currency": "NZD",
-      "value": 52.28
+      "value": 52.38
     },
     {
       "currency": "MXN",
-      "value": 4.32
+      "value": 4.27
     },
     {
       "currency": "SGD",
-      "value": 64.37
+      "value": 64.4
     },
     {
       "currency": "HKD",
@@ -57,7 +57,7 @@
     },
     {
       "currency": "NOK",
-      "value": 7.99
+      "value": 7.97
     },
     {
       "currency": "KRW",
