@@ -1,7 +1,7 @@
 {
   "baseCurrency": "INR",
-  "lastUpdated": "2024-09-21T12:15:37.318Z",
-  "date": "2024-09-21",
+  "lastUpdated": "2024-09-22T12:16:07.865Z",
+  "date": "2024-09-22",
   "rates": [
     {
       "currency": "USD",
@@ -13,7 +13,7 @@
     },
     {
       "currency": "GBP",
-      "value": 111.17
+      "value": 111.22
     },
     {
       "currency": "JPY",
@@ -29,7 +29,7 @@
     },
     {
       "currency": "CHF",
-      "value": 98.17
+      "value": 98.21
     },
     {
       "currency": "CNY",
@@ -69,7 +69,7 @@
     },
     {
       "currency": "RUB",
-      "value": 0.91
+      "value": 0.9
     }
   ]
 }
