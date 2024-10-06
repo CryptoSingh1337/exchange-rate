@@ -1,7 +1,7 @@
 {
   "baseCurrency": "INR",
-  "lastUpdated": "2024-10-05T12:16:46.391Z",
-  "date": "2024-10-05",
+  "lastUpdated": "2024-10-06T12:16:28.994Z",
+  "date": "2024-10-06",
   "rates": [
     {
       "currency": "USD",
@@ -37,7 +37,7 @@
     },
     {
       "currency": "SEK",
-      "value": 8.1
+      "value": 8.11
     },
     {
       "currency": "NZD",
@@ -49,7 +49,7 @@
     },
     {
       "currency": "SGD",
-      "value": 64.46
+      "value": 64.41
     },
     {
       "currency": "HKD",
