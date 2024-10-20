@@ -1,7 +1,7 @@
 {
   "baseCurrency": "INR",
-  "lastUpdated": "2024-10-19T12:17:03.000Z",
-  "date": "2024-10-19",
+  "lastUpdated": "2024-10-20T12:17:58.637Z",
+  "date": "2024-10-20",
   "rates": [
     {
       "currency": "USD",
@@ -21,7 +21,11 @@
     },
     {
       "currency": "AUD",
-      "value": 56.25
+      "value": 56.43
+    },
+    {
+      "currency": "CAD",
+      "value": 60.78
     },
     {
       "currency": "CHF",
@@ -49,7 +53,7 @@
     },
     {
       "currency": "HKD",
-      "value": 10.8
+      "value": 10.82
     },
     {
       "currency": "NOK",
