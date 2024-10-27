@@ -1,12 +1,8 @@
 {
   "baseCurrency": "INR",
-  "lastUpdated": "2024-10-26T12:17:04.814Z",
-  "date": "2024-10-26",
+  "lastUpdated": "2024-10-27T12:16:41.407Z",
+  "date": "2024-10-27",
   "rates": [
-    {
-      "currency": "USD",
-      "value": 84.1
-    },
     {
       "currency": "EUR",
       "value": 90.79
@@ -62,10 +58,6 @@
     {
       "currency": "KRW",
       "value": 0.06
-    },
-    {
-      "currency": "TRY",
-      "value": 2.45
     },
     {
       "currency": "RUB",
