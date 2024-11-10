@@ -1,7 +1,7 @@
 {
   "baseCurrency": "INR",
-  "lastUpdated": "2024-11-09T12:16:06.503Z",
-  "date": "2024-11-09",
+  "lastUpdated": "2024-11-10T12:16:13.172Z",
+  "date": "2024-11-10",
   "rates": [
     {
       "currency": "USD",
@@ -32,10 +32,6 @@
       "value": 96.95
     },
     {
-      "currency": "CNY",
-      "value": 11.82
-    },
-    {
       "currency": "SEK",
       "value": 7.8
     },
@@ -54,6 +50,10 @@
     {
       "currency": "HKD",
       "value": 10.86
+    },
+    {
+      "currency": "NOK",
+      "value": 7.67
     },
     {
       "currency": "KRW",
