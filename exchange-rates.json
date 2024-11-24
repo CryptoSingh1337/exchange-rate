@@ -1,7 +1,7 @@
 {
   "baseCurrency": "INR",
-  "lastUpdated": "2024-11-23T12:17:17.646Z",
-  "date": "2024-11-23",
+  "lastUpdated": "2024-11-24T12:17:35.707Z",
+  "date": "2024-11-24",
   "rates": [
     {
       "currency": "USD",
@@ -46,6 +46,10 @@
     {
       "currency": "MXN",
       "value": 4.13
+    },
+    {
+      "currency": "SGD",
+      "value": 62.65
     },
     {
       "currency": "HKD",
