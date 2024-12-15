@@ -1,7 +1,7 @@
 {
   "baseCurrency": "INR",
-  "lastUpdated": "2024-12-14T12:17:57.915Z",
-  "date": "2024-12-14",
+  "lastUpdated": "2024-12-15T12:18:19.676Z",
+  "date": "2024-12-15",
   "rates": [
     {
       "currency": "USD",
@@ -13,7 +13,7 @@
     },
     {
       "currency": "GBP",
-      "value": 107.02
+      "value": 107.06
     },
     {
       "currency": "JPY",
@@ -21,7 +21,7 @@
     },
     {
       "currency": "AUD",
-      "value": 53.83
+      "value": 54
     },
     {
       "currency": "CAD",
@@ -66,10 +66,6 @@
     {
       "currency": "TRY",
       "value": 2.43
-    },
-    {
-      "currency": "RUB",
-      "value": 0.81
     }
   ]
 }
